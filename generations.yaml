@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 1987
+    end_year: 1996
+    description: "The original Dodge Dakota pioneered the mid-size pickup truck segment, positioned between compact trucks like the Ford Ranger and full-size models like the Ford F-150. Available in regular and extended (Club Cab) configurations, it featured distinctive styling with a conventional body-on-frame design. Engine options ranged from a 2.2L four-cylinder to a 5.2L V8 (added in 1991), making it the first modern mid-size truck with an optional V8. Four-wheel drive was available across most of the range. A convertible model was briefly offered from 1989-1991, representing one of the few convertible trucks in modern automotive history. The first-generation Dakota established the model's identity as a versatile, capable truck that could handle serious work while being more manageable than full-size alternatives."
+
+  - name: "Second Generation"
+    start_year: 1997
+    end_year: 2004
+    description: "The redesigned Dakota featured more rounded styling in line with the contemporary Dodge Ram. The extended Club Cab continued, and a four-door Quad Cab model was added in 2000, offering true sedan-like rear doors. Engine options evolved to include a 2.5L four-cylinder, 3.9L V6, 4.7L V8, and 5.9L V8 in the high-performance R/T model, which could accelerate from 0-60 mph in under 7 seconds. The interior was significantly improved with better materials and ergonomics. This generation enhanced the Dakota's position as a versatile alternative to full-size trucks, offering nearly comparable capability in a more manageable package. Special models included the off-road-oriented Dakota 4×4 Sport and the performance-focused R/T."
+
+  - name: "Third Generation"
+    start_year: 2005
+    end_year: 2011
+    description: "The final Dakota generation featured more angular styling and shared some components with the Dodge Durango SUV. Available only in extended (Club Cab) and crew cab (Quad Cab) configurations, it grew in size to further differentiate from compact trucks. Engine options were reduced to a 3.7L V6 and 4.7L V8, both offering improved power and efficiency compared to their predecessors. The interior was substantially upgraded with better materials and available features including navigation, premium audio, and enhanced safety systems. Despite these improvements, the Dakota faced increasing competition from both improved compact trucks and more efficient full-size models. Declining sales and changing corporate priorities following Chrysler's bankruptcy and acquisition by Fiat led to the Dakota's discontinuation in 2011 without a direct replacement. The third-generation Dakota represented the culmination of the mid-size truck concept that the original model had pioneered, offering substantial capability in a package that balanced utility with daily usability."
