@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2118|fc=1
+test_cases:
+- expected_values:
+    DODGE_ATF_T_3RDGEN: 81.875
+  response: 7E90561181E7804
+- expected_values:
+    DODGE_ATF_T_3RDGEN: 82.73438
+  response: 7E90561181EAF04
